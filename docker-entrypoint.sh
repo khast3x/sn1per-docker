@@ -9,4 +9,5 @@ export INSTALL_DIR=/usr/share/sniper
 export LOOT_DIR=/usr/share/sniper/loot
 export PLUGINS_DIR=/usr/share/sniper/plugins
 export SNIPER_SKIP_DEPENDENCIES=true
+cd /Sn1per
 exec "$@"
